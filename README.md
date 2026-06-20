@@ -75,8 +75,9 @@ Accuracy stays perfect up to **K = 5**, then stabilises at ~99.90% — making K 
 The SVM with a linear kernel projects the data into 2D PCA space, creating a clean decision boundary between spam (red) and legitimate (blue) clusters. Circled points are the **support vectors** defining the maximum margin.
 
 <div align="center">
-<img src="images/SVM.png" alt="SVM Margin Separation and Support Vectors" width="680"/>
+<img width="430" height="341" alt="SVM" src="https://github.com/user-attachments/assets/33df9e91-0b40-4773-b26d-262069bc8603" />
 </div>
+
 
 ---
 
