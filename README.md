@@ -1,8 +1,3 @@
-<img width="373" height="284" alt="KNN" src="https://github.com/user-attachments/assets/5cb9ccfc-ec67-4858-a5da-e45f75d1efb8" />
-<img width="373" height="284" alt="KNN" src="https://github.com/user-attachments/assets/e55e6564-7904-49a4-bb2c-fad86d324fd7" />
-<img width="373" height="284" alt="KNN" src="https://github.com/user-attachments/assets/7f49e171-5bb9-4c03-947e-dd1720719f72" />
-<div align="center">
-
 # 📨 Message Intelligence System
 
 ### *Probability-driven spam detection powered by machine learning*
