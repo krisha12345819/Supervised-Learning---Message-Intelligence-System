@@ -32,6 +32,15 @@
 
 </div>
 
+## 🎥 Demo
+
+<p align="center">
+
+https://github.com/user-attachments/assets/c132be19-e0ce-4d1d-80cb-b7afdce3b46a
+
+<a>▶️ Watch Full Video</a>
+</p>
+
 ---
 
 ## ✨ App Tabs at a Glance
