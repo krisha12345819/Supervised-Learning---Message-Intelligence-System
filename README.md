@@ -65,7 +65,7 @@ NB   ──── var_smoothing optimized ──── Accuracy: 100.00%
 Accuracy stays perfect up to **K = 5**, then stabilises at ~99.90% — making K = 5 the optimal sweet spot before bias increases.
 
 <div align="center">
-<img src="KNN.png" alt="KNN Accuracy for Different K Values" width="680"/>
+<img src="images/KNN.png" alt="KNN Accuracy for Different K Values" width="680"/>
 </div>
 
 ---
@@ -75,7 +75,7 @@ Accuracy stays perfect up to **K = 5**, then stabilises at ~99.90% — making K 
 The SVM with a linear kernel projects the data into 2D PCA space, creating a clean decision boundary between spam (red) and legitimate (blue) clusters. Circled points are the **support vectors** defining the maximum margin.
 
 <div align="center">
-<img src="SVM.png" alt="SVM Margin Separation and Support Vectors" width="680"/>
+<img src="images/SVM.png" alt="SVM Margin Separation and Support Vectors" width="680"/>
 </div>
 
 ---
@@ -85,7 +85,7 @@ The SVM with a linear kernel projects the data into 2D PCA space, creating a cle
 All three classifiers achieve **100% accuracy** on the test set, validating the strength of the engineered feature set.
 
 <div align="center">
-<img src="Knn_Svm_Naivebayes.png" alt="KNN vs SVM vs Naive Bayes Accuracy Comparison" width="680"/>
+<img src="images/Knn_Svm_Naivebayes.png" alt="KNN vs SVM vs Naive Bayes Accuracy Comparison" width="680"/>
 </div>
 
 ---
