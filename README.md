@@ -1,5 +1,3 @@
-<div align="center">
-
 # 📨 Message Intelligence System
 
 ### *Probability-driven spam detection powered by machine learning*
@@ -34,6 +32,15 @@
 
 </div>
 
+## 🎥 Demo
+
+<p align="center">
+
+https://github.com/user-attachments/assets/c132be19-e0ce-4d1d-80cb-b7afdce3b46a
+
+<a>▶️ Watch Full Video</a>
+</p>
+
 ---
 
 ## ✨ App Tabs at a Glance
@@ -65,7 +72,7 @@ NB   ──── var_smoothing optimized ──── Accuracy: 100.00%
 Accuracy stays perfect up to **K = 5**, then stabilises at ~99.90% — making K = 5 the optimal sweet spot before bias increases.
 
 <div align="center">
-<img src="images/KNN.png" alt="KNN Accuracy for Different K Values" width="680"/>
+<img width="373" height="284" alt="KNN" src="https://github.com/user-attachments/assets/e3ff345e-686d-4ef9-8c13-87eebd8c6a6e" />
 </div>
 
 ---
@@ -75,8 +82,9 @@ Accuracy stays perfect up to **K = 5**, then stabilises at ~99.90% — making K 
 The SVM with a linear kernel projects the data into 2D PCA space, creating a clean decision boundary between spam (red) and legitimate (blue) clusters. Circled points are the **support vectors** defining the maximum margin.
 
 <div align="center">
-<img src="images/SVM.png" alt="SVM Margin Separation and Support Vectors" width="680"/>
+<img width="430" height="341" alt="SVM" src="https://github.com/user-attachments/assets/33df9e91-0b40-4773-b26d-262069bc8603" />
 </div>
+
 
 ---
 
@@ -85,7 +93,7 @@ The SVM with a linear kernel projects the data into 2D PCA space, creating a cle
 All three classifiers achieve **100% accuracy** on the test set, validating the strength of the engineered feature set.
 
 <div align="center">
-<img src="images/Knn_Svm_Naivebayes.png" alt="KNN vs SVM vs Naive Bayes Accuracy Comparison" width="680"/>
+<img width="385" height="296" alt="Knn_Svm_Naivebayes" src="https://github.com/user-attachments/assets/9ab0d063-13c2-4d5e-9c58-8853cfd103e5" />
 </div>
 
 ---
